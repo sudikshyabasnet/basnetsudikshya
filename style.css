@@ -627,7 +627,7 @@ nav .fa-solid{
 /*------------services----*/
 #services{
     height:100vh auto;
-    margin-top:0px;
+    margin-bottom:20px;
     width:100% ;
     padding-top: 80px ;   
 }
